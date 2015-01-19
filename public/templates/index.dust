@@ -1,0 +1,68 @@
+{>"layouts/master" /}
+
+{<title} Aysek Studio {/title}
+
+{<menu}
+	<li class="active">
+		<a href="/">
+			<span>{@pre type="content" key="menu_studio"/}</span>
+		</a>
+	</li>
+	<li>
+		<a href="/"><span>{@pre type="content" key="menu_records"/}</span></a>
+	</li>
+	<li>
+		<a href="/"><span>{@pre type="content" key="menu_dev"/}</span></a>
+	</li>
+	<li class="last">
+		<a href="/"><span>{@pre type="content" key="menu_contact"/}</span></a>
+	</li>
+{/menu}
+
+{<body}
+    <div class="main">
+		<!--content -->
+		<article id="content"><div class="ic"></div>
+			<div class="wrapper">
+				<div class="col1 marg_right1">
+					<h2>{@pre type="content" key="menu_studio"/}</h2>
+					<p>Ayzek <a href="/">records</a> es blah blah blah.</p>
+				</div>
+				<div class="col1 marg_right1">
+					<h2>{@pre type="content" key="menu_records"/}</h2>
+					<p>Ayzek <a href="/">dev</a> es blah blah blah.</p>
+				</div>
+				<div class="col1 marg_right1">
+					<h2>{@pre type="content" key="menu_dev"/}</h2>
+					<p>Ayzek <a href="/">apps</a> es blah blah blah.</p>
+				</div>
+				<div class="col1">
+					<h2>Servicios</h2>
+					<ul class="list1">
+						<li><a href="/">Ayzek Record </a></li>
+						<li><a href="/">Ayzek Dev</a></li>
+					</ul>
+				</div>
+			</div>
+		</article>
+	</div>
+	<div class="bg1">
+		<div class="main">
+			<article id="content2">
+				<div class="wrapper">
+					<div class="col2 marg_right1">
+						<h3>Bienvenido!</h3>
+						<div class="wrapper">
+							<figure class="left marg_right1"><img src="images/page1_img1.jpg" alt=""></figure>
+							<p class="color2 pad_bot1">Hablada jajaja</p>
+							<p>Mas hablada </p>
+						</div>
+						<p>lajdlkjfa lkajdfklja kl</p>
+						<a href="/" class="button1">Mas</a>
+					</div>
+				</div>
+			</article>
+		</div>
+	</div>
+	<!--content end-->
+{/body}
