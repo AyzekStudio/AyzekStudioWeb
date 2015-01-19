@@ -1,6 +1,12 @@
 {>"layouts/master" /}
 
+{<title} Aysek Studio {/title}
+
 {<body}
-    <h1>{@pre type="content" key="header"/}</h1>
-    <p>{@pre type="content" key="description"/}</p>
+	<!--content -->
+    <div class="main">
+	    <h1>{@pre type="content" key="header"/}</h1>
+	    <p>{@pre type="content" key="description"/}</p>
+	</div>
+	<!--content end-->
 {/body}
