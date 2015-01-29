@@ -16,7 +16,7 @@ module.exports = function (app) {
     
     app.get('/', function (req, res) {
 	    var model = new IndexModel();
-	    res.render('index', model);
+	    res.render('index.dust', model);
 	}),
 
     app.get('/setLocale/:locale', function (req, res) {

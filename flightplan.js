@@ -4,12 +4,12 @@ var appName = 'aysek-studio';
 var username = 'deploy';
 var startFile = 'server.js';
 
-var tmpDir = appName+'-' + new Date().getTime();
+var tmpDir = appName + '-' + new Date().getTime();
 
 // configuration
 plan.target('staging', [
   {
-    host: '104.131.86.24',
+    host: 'aysekstudio.com',
     username: 'deploy',
     agent: process.env.SSH_AUTH_SOCK
   }
@@ -17,7 +17,7 @@ plan.target('staging', [
 
 plan.target('production', [
   {
-    host: '104.131.86.24',
+    host: 'aysekstudio.com',
     username: 'deploy',
     agent: process.env.SSH_AUTH_SOCK
   },
@@ -54,4 +54,5 @@ plan.remote(function(remote) {
   remote.sudo('ln -snf ~/' + tmpDir + ' ~/'+appName, {user: username});
   remote.exec('forever stop ~/'+appName+'/'+startFile, {failsafe: true});
   remote.exec('forever start ~/'+appName+'/'+startFile);
+  //remote.exec('sudo restart aysekstudio');
 });
