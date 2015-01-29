@@ -1,0 +1,185 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/jmora/Repositorios/AysekStudio"
+	],
+	"file_history":
+	[
+		"/run/user/1000/gvfs/sftp:host=aysekstudio.com,user=deploy/home/deploy/aysek-studio-1421657773714/package.json",
+		"/home/jmora/Repositorios/AysekStudio/.gitignore",
+		"/home/jmora/Repositorios/AysekStudio/flightplan.js",
+		"/home/jmora/Documentos/Proyectos/Aysek Studio/site/index.html",
+		"/home/jmora/.ssh/id_rsa.pub",
+		"/var/lib/tomcat7/webapps/touch/Proyectos/MinnaNoNihongo/app/view/Main.js",
+		"/var/lib/tomcat7/webapps/touch/Proyectos/account_manager/index.html",
+		"/var/lib/tomcat7/webapps/touch/Proyectos/account_manager/app.js",
+		"/var/lib/tomcat7/webapps/touch/Proyectos/MinnaNoNihongo/app.js",
+		"/var/lib/tomcat7/webapps/touch/Proyectos/MinnaNoNihongo/index.html",
+		"/var/lib/tomcat7/webapps/touch/Proyectos/account_manager/resources/css/appLoader.css",
+		"/var/lib/tomcat7/webapps/touch/Proyectos/account_manager/app.json",
+		"/var/lib/tomcat7/webapps/touch/Proyectos/account_manager/resources/css/app.css",
+		"/var/lib/tomcat7/webapps/touch/Proyectos/account_manager/app/view/Main.js",
+		"/var/lib/tomcat7/webapps/touch/Proyectos/account_manager/appLoader.css",
+		"/var/lib/tomcat7/webapps/touch/Proyectos/account_manager/User.js",
+		"/var/lib/tomcat7/webapps/touch/Proyectos/MinnaNoNihongo/app/view/Readme.md",
+		"/var/lib/tomcat7/webapps/touch/Proyectos/MinnaNoNihongo/app.json",
+		"/var/lib/tomcat7/webapps/touch/Proyectos/MinnaNoNihongo/bootstrap.js",
+		"/var/lib/tomcat7/webapps/touch/Proyectos/MinnaNoNihongo/bootstrap.json",
+		"/var/lib/tomcat7/webapps/touch/Proyectos/MinnaNoNihongo/build.xml",
+		"/var/lib/tomcat7/webapps/touch/version.txt",
+		"/var/lib/tomcat7/webapps/touch/SETUP.html",
+		"/var/lib/tomcat7/webapps/touch/Proyectos/MinnaNoNihongo/app/Readme.md",
+		"/home/jmora/sketchbook/libraries/readme.txt"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"resources"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "AysekStudio.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 180.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
