@@ -1,0 +1,52 @@
+/***** Content *****/
+html, body {
+    height: 100%;
+}
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+#logo {
+	display:block;
+	background:url(../images/logo.png) 0 0 no-repeat;
+	width:315px;
+	height:44px;
+}
+.mantenimiento{
+	height:85%; 
+	width: 100%; 
+}
+/***** Footer *****/
+footer {
+	padding:10px 15px 5px; 
+	margin:3%;
+	height:15%; 
+	width: 100%; 
+	position:absolute;
+   	bottom:0;
+}
+footer a {
+	color:#808080;
+}
+footer a:hover {
+	color:#fff;
+}
+#icons {
+	float:right;
+	width: 25%;
+	list-style-type:none;
+}
+#icons li {
+	padding-right:25px
+}
+#icons .list_title {
+	font-size:18px;
+	color:#fff;
+	letter-spacing:-1px;
+}
+#horizontal li
+{
+display: inline;
+list-style-type: none;
+padding-right: 20px;
+}

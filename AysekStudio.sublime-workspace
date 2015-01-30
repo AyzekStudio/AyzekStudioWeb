@@ -3,6 +3,10 @@
 	{
 		"selected_items":
 		[
+			[
+				"pso",
+				"position"
+			]
 		]
 	},
 	"buffers":
@@ -35,14 +39,37 @@
 	},
 	"expanded_folders":
 	[
-		"/home/jmora/Repositorios/AysekStudio",
-		"/home/jmora/Repositorios/AysekStudio/public",
-		"/home/jmora/Repositorios/AysekStudio/public/css",
-		"/home/jmora/Repositorios/AysekStudio/public/templates",
-		"/home/jmora/Repositorios/AysekStudio/public/templates/layouts"
+		"/home/aktek/Documentos/NodeJs/Repositorios/AysekStudio",
+		"/home/aktek/Documentos/NodeJs/Repositorios/AysekStudio/controllers",
+		"/home/aktek/Documentos/NodeJs/Repositorios/AysekStudio/locales/ES",
+		"/home/aktek/Documentos/NodeJs/Repositorios/AysekStudio/locales/ES/es",
+		"/home/aktek/Documentos/NodeJs/Repositorios/AysekStudio/locales/ES/es/layouts",
+		"/home/aktek/Documentos/NodeJs/Repositorios/AysekStudio/locales/US",
+		"/home/aktek/Documentos/NodeJs/Repositorios/AysekStudio/locales/US/en",
+		"/home/aktek/Documentos/NodeJs/Repositorios/AysekStudio/locales/US/en/layouts",
+		"/home/aktek/Documentos/NodeJs/Repositorios/AysekStudio/public",
+		"/home/aktek/Documentos/NodeJs/Repositorios/AysekStudio/public/css",
+		"/home/aktek/Documentos/NodeJs/Repositorios/AysekStudio/public/templates",
+		"/home/aktek/Documentos/NodeJs/Repositorios/AysekStudio/public/templates/layouts"
 	],
 	"file_history":
 	[
+		"/home/aktek/Documentos/NodeJs/Repositorios/AysekStudio/public/templates/mantenimiento.dust",
+		"/home/aktek/Documentos/NodeJs/Repositorios/AysekStudio/public/css/mantenimiento.css",
+		"/home/aktek/Documentos/NodeJs/Repositorios/AysekStudio/public/css/style.css",
+		"/home/aktek/Documentos/NodeJs/Repositorios/AysekStudio/public/css/global.css",
+		"/home/aktek/Documentos/NodeJs/Repositorios/AysekStudio/public/templates/layouts/master.dust",
+		"/home/aktek/Documentos/NodeJs/Repositorios/AysekStudio/locales/US/en/mantenimiento.properties",
+		"/home/aktek/Documentos/NodeJs/Repositorios/AysekStudio/locales/ES/es/mantenimiento.properties",
+		"/home/aktek/Documentos/NodeJs/Repositorios/Aysek_WebBase/Contact.html",
+		"/home/aktek/Documentos/NodeJs/Repositorios/AysekStudio/public/css/reset.css",
+		"/home/aktek/.config/sublime-text-3/Packages/Emmet/Emmet.sublime-settings",
+		"/home/aktek/Documentos/NodeJs/Repositorios/AysekStudio/public/images/top.gif.png",
+		"/home/aktek/Documentos/NodeJs/Repositorios/AysekStudio/locales/US/en/layouts/master.properties",
+		"/home/aktek/Documentos/NodeJs/Repositorios/AysekStudio/locales/ES/es/layouts/master.properties",
+		"/home/aktek/Documentos/NodeJs/Repositorios/AysekStudio/controllers/index.js",
+		"/home/aktek/Documentos/NodeJs/Repositorios/AysekStudio/README.md",
+		"/home/aktek/Documentos/NodeJs/Repositorios/AysekStudio/public/images/top.gif",
 		"/home/jmora/Documentos/Proyectos/Aysek Studio/Web Base/index.html",
 		"/home/jmora/Repositorios/AysekStudio/public/templates/layouts/master.dust",
 		"/home/jmora/Repositorios/AysekStudio/public/templates/index.dust",
@@ -81,7 +108,7 @@
 	],
 	"find":
 	{
-		"height": 25.0
+		"height": 50.0
 	},
 	"find_in_files":
 	{
@@ -95,6 +122,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			">\n",
+			"page1",
+			"normaltip",
+			"2em",
 			"resources"
 		],
 		"highlight": true,
@@ -124,7 +155,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 33.0
 	},
 	"layout":
 	{

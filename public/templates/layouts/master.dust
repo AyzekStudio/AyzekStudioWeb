@@ -4,10 +4,10 @@
 	    <meta charset="utf-8" />
 	    <title>{+title /}</title>
 	    <!-- <link rel="stylesheet" href="/css/app.css" /> -->
-		<link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
+		<link rel="stylesheet" href="css/global.css" type="text/css">
 		<link rel="stylesheet" href="css/layout.css" type="text/css" media="all">
 		<link rel="stylesheet" href="css/style.css" type="text/css" media="all">
-
+		{+stylesheets /}
 		<script type="text/javascript" src="js/jquery-1.6.js" ></script>
 		<script type="text/javascript" src="js/cufon-yui.js"></script>
 		<script type="text/javascript" src="js/cufon-replace.js"></script>  
@@ -30,7 +30,7 @@
 		<!-- / Script de Google Analytics -->
 	</head>
 	<body>
-		<div class="content" id="page1"> 
+		<div class="content" id="studio"> 
 			<div class="main">
 				<!--header -->
 				<header>
@@ -65,8 +65,8 @@
 			<footer>
 				<ul id="icons">
 					<li class="first">Siguenos:</li>
-					<li><a href="/" class="normaltip" title="Facebook"><img src="images/icon1.jpg" alt=""></a></li>
-					<li><a href="/" class="normaltip" title="Twitter"><img src="images/icon2.jpg" alt=""></a></li>
+					<li><a href="/" class="normaltip" title="Facebook"><img src="images/fb.jpg" alt=""></a></li>
+					<li><a href="/" class="normaltip" title="Twitter"><img src="images/tw.jpg" alt=""></a></li>
 				</ul>
 				Aysek Studio &copy; 2015 
 			</footer>

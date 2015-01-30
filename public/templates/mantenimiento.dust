@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+	    <meta charset="utf-8" />
+	    <title>{@pre type="content" key="main_title"/}</title>
+		<link rel="stylesheet" href="css/global.css" type="text/css">
+		<link rel="stylesheet" href="css/mantenimiento.css" type="text/css">
+
+		<!-- Script de Google Analytics -->	
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-58729114-1', 'auto');
+			ga('send', 'pageview');
+		</script>		
+		<!-- / Script de Google Analytics -->
+	</head>
+	<body>
+		<div class="content" id="studio"> 
+			
+			<div class="mantenimiento">
+				<span id="logo" title="Aysek Studio"></span>
+			</div>
+			
+			<!--footer -->
+			<footer>
+				<ul id="icons">
+					<li>
+						<span class="list_title">Siguenos: </span>
+					</li>
+					<ul id="horizontal">
+						<li>
+							<a href="/" title={@pre type="content" key="fb_follow"/}>
+								<img src="images/fb.jpg" alt={@pre type="content" key="fb_follow"/}>
+							</a>
+						</li>
+					</ul>
+				</ul>
+				<span class="left">Aysek Studio &copy; 2015</span>
+			</footer>
+			<!--footer end-->
+		</div>
+	</body>
+</html>
