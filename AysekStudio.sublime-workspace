@@ -35,13 +35,27 @@
 	},
 	"expanded_folders":
 	[
-		"/home/jmora/Repositorios/AysekStudio"
+		"/home/jmora/Repositorios/AysekStudio",
+		"/home/jmora/Repositorios/AysekStudio/public",
+		"/home/jmora/Repositorios/AysekStudio/public/css",
+		"/home/jmora/Repositorios/AysekStudio/public/templates",
+		"/home/jmora/Repositorios/AysekStudio/public/templates/layouts"
 	],
 	"file_history":
 	[
+		"/home/jmora/Documentos/Proyectos/Aysek Studio/Web Base/index.html",
+		"/home/jmora/Repositorios/AysekStudio/public/templates/layouts/master.dust",
+		"/home/jmora/Repositorios/AysekStudio/public/templates/index.dust",
+		"/home/jmora/Repositorios/AysekStudio/public/css/layout.css",
+		"/home/jmora/Repositorios/AysekStudio/public/css/reset.css",
+		"/home/jmora/Documentos/Proyectos/Aysek Studio/Web Base/css/style.css",
+		"/home/jmora/Repositorios/AysekStudio/public/css/style.css",
+		"/home/jmora/Repositorios/AysekStudio/flightplan.js",
+		"/home/jmora/Repositorios/AysekStudio/controllers/index.js",
+		"/home/jmora/Repositorios/AysekStudio/package.json",
+		"/home/jmora/Repositorios/AysekStudio/node_modules/kraken-devtools/package.json",
 		"/run/user/1000/gvfs/sftp:host=aysekstudio.com,user=deploy/home/deploy/aysek-studio-1421657773714/package.json",
 		"/home/jmora/Repositorios/AysekStudio/.gitignore",
-		"/home/jmora/Repositorios/AysekStudio/flightplan.js",
 		"/home/jmora/Documentos/Proyectos/Aysek Studio/site/index.html",
 		"/home/jmora/.ssh/id_rsa.pub",
 		"/var/lib/tomcat7/webapps/touch/Proyectos/MinnaNoNihongo/app/view/Main.js",

@@ -3,7 +3,6 @@
 {<title} Aysek Studio {/title}
 
 {<body}
-<header>
 	<div id="slider">
 		<ul class="items">
 			<li>
@@ -29,7 +28,6 @@
 			</li>
 		</ul>
 	</div>
-</header>
     <div class="main">
 		<!--content -->
 		<article id="content"><div class="ic"></div>
@@ -63,7 +61,7 @@
 					<div class="col2 marg_right1">
 						<h3>Bienvenido!</h3>
 						<div class="wrapper">
-							<figure class="left marg_right1"><img src="images/studio_img1.jpg" alt=""></figure>
+							<figure class="left marg_right1"><img src="images/page1_img1.jpg" alt=""></figure>
 							<p class="color2 pad_bot1">Hablada jajaja</p>
 							<p>Mas hablada </p>
 						</div>

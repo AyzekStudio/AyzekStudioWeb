@@ -57,8 +57,8 @@
 					</nav>
 				</header>
 				<!--header end-->
+		    	{+body /}
 			</div>
-		    {+body /}
 		</div>
 		<!--footer -->
 		<div class="main">
@@ -70,6 +70,7 @@
 				</ul>
 				Aysek Studio &copy; 2015 
 			</footer>
+		</div>
 		<!--footer end-->
 	</body>
 </html>
