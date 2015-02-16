@@ -3,7 +3,6 @@
 	<head>
 	    <meta charset="utf-8" />
 	    <title>{@pre type="content" key="main_title"/}</title>
-		<link rel="stylesheet" href="css/global.css" type="text/css">
 		<link rel="stylesheet" href="css/mantenimiento.css" type="text/css">
 
 		<!-- Script de Google Analytics -->	
@@ -18,12 +17,12 @@
 		<!-- / Script de Google Analytics -->
 	</head>
 	<body>
-		<div class="content" id="studio"> 
-			
-			<div class="mantenimiento">
+			<header class="mantenimiento">
 				<span id="logo" title="Aysek Studio"></span>
-			</div>
-			
+			</header>
+			<section id="texto">
+				<p>Proximamente... Te sorprenderemos</p>
+			</section>	
 			<!--footer -->
 			<footer>
 				<ul id="icons">
@@ -41,6 +40,5 @@
 				<span class="left">Aysek Studio &copy; 2015</span>
 			</footer>
 			<!--footer end-->
-		</div>
 	</body>
 </html>
