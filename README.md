@@ -28,7 +28,7 @@ nodemon server.js
 ```
 El proyecto corre por defecto en [http://localhost:8000/](http://localhost:8000/)
 
-## Para  enviar cambios al repositorio ##
+## Para  enviar cambios al repositorio en el servidor de producción ##
 ```
 #!shell
 cd direccion/al/proyecto/
