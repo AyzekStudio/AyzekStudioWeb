@@ -18,9 +18,9 @@
 	</head>
 	<body>
 			<header class="mantenimiento">
-				<span id="logo" title="Aysek Studio"></span>
+				<span id="logo"></span>
 			</header>
-			<section id="texto">
+			<section class="texto">
 				<p>Proximamente... Te sorprenderemos</p>
 			</section>	
 			<!--footer -->
