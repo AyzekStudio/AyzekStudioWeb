@@ -10,26 +10,24 @@ header, section {
 	position: absolute;
 	float: left;
 	margin:  15% 0;
-	left: 30%;
+	left: 20%;
 }
-
 .mantenimiento { 
 	top: 0;
-	height: 25%; 
-	width: 100%; 
 }
 #logo {
-	display: block;
-        background:url(./images/logo.png) 0 0 no-repeat;
-	width:5%;
+	width:25%;
 	height:15%;
 }
 .texto {    
-	position: relative;
-	top: 7px;
+	position: absolute;
+	float: center;
+	top: 65px;
+	margin-left: 300px;
 	color:#9A9A9A;
 	font-size:30px;
 }
+
 /***** Footer *****/
 footer {
 	padding:10px 15px 5px; 
